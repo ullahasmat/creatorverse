@@ -32,10 +32,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- Replace this with a GIF or video link of your app walkthrough -->
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](https://www.cockos.com/licecap/).
+![Walkthrough](walkthrough.gif)
 
 ## Notes
 
